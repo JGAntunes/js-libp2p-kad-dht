@@ -45,7 +45,7 @@
     "err-code": "^1.1.2",
     "hashlru": "^2.3.0",
     "heap": "~0.2.6",
-    "interface-datastore": "~0.6.0",
+    "interface-datastore": "jgantunes/interface-datastore",
     "k-bucket": "^5.0.0",
     "libp2p-crypto": "~0.16.0",
     "libp2p-record": "~0.6.1",
